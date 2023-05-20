@@ -1,9 +1,13 @@
 import Header from "./component/Header";
+import css from './styles/app.module.scss'
+
 
 const App = () => {
   //don't forget to add font link in index.html
   return (
-    <Header />
+    <div className={`bg-primary ${css.container}`}>
+      <Header />
+    </div>
   )
 };
 
