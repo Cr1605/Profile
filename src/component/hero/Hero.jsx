@@ -29,7 +29,7 @@ const Hero = () => {
             className={css.person}>
                 <motion.img 
                 variants={slideIn("up", "tween", 0.5, 1.3)}
-                src="./person.png" alt="" />
+                src="./haavtar.png" alt="" />
             </motion.div>
 
             {/* lowerElements */}
@@ -37,7 +37,7 @@ const Hero = () => {
                 <motion.div 
                 variants={fadeIn("right", "tween", 0.2, 1)}
                 className={css.experience}>
-                    <div className="primaryText">10</div>
+                    <div className="primaryText">1</div>
                     <div className="secondaryText">
                         <div>Year</div>
                         <div>Experience</div>
