@@ -14,7 +14,7 @@ const Experties = () => {
                 whileInView="show"
                 viewport={{ once: false, amount: 0.25 }}
                 className={`paddings yPaddings innerWidth flexCenter ${css.container}`}>
-
+                <a className="anchor" id="experties"></a>
 
                 {/* left side */}
                 <div className={css.leftSide}>

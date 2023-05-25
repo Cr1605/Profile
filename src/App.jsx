@@ -1,4 +1,5 @@
 import Experties from "./component/experties/Experties";
+import Footer from "./component/footer/Footer";
 import Header from "./component/header/Header";
 import Hero from "./component/hero/Hero";
 import People from "./component/people/People";
@@ -17,6 +18,7 @@ const App = () => {
       <Work />
       <Portfolio />
       <People />
+      <Footer />
     </div>
   )
 };

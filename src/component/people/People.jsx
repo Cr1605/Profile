@@ -13,6 +13,7 @@ const People = () => {
             whileInView="show"
             viewport={{ once: false, amount: 0.25 }}
             section className={`paddings ${css.wrapper}`}>
+            <a className="anchor" id="people"></a>
 
             <motion.div
                 variants={footerVariants}
