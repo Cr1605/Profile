@@ -1,6 +1,7 @@
 import Experties from "./component/experties/Experties";
 import Header from "./component/header/Header";
 import Hero from "./component/hero/Hero";
+import Work from "./component/work/Work";
 import css from './styles/app.module.scss'
 
 
@@ -11,6 +12,7 @@ const App = () => {
       <Header />
       <Hero />
       <Experties />
+      <Work />
     </div>
   )
 };
