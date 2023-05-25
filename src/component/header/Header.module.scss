@@ -20,7 +20,9 @@
         }
 
         .menu {
-            @media (max-width: $sm), (max-width: $md) {
+
+            @media (max-width: $sm),
+            (max-width: $md) {
                 position: absolute;
                 list-style: none;
                 gap: 2rem;
@@ -53,16 +55,16 @@
                     text-decoration: none;
                 }
 
-                &:hover{
+                &:hover {
                     color: $secondary;
                 }
             }
 
-            .phone{
+            .phone {
                 gap: 1.2rem;
                 flex-wrap: wrap;
 
-                svg{
+                svg {
                     color: $secondary;
                     padding: 10px;
                     background: white;
@@ -70,6 +72,15 @@
                     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
                 }
             }
+        }
+
+        
+        .menuIcon {
+            @media screen and (max-width: $sm) {
+                display: block;
+            }
+    
+            display: none;
         }
     }
 }

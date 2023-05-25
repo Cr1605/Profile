@@ -1,3 +1,4 @@
+import Experties from "./component/experties/Experties";
 import Header from "./component/header/Header";
 import Hero from "./component/hero/Hero";
 import css from './styles/app.module.scss'
@@ -9,6 +10,7 @@ const App = () => {
     <div className={`bg-primary ${css.container}`}>
       <Header />
       <Hero />
+      <Experties />
     </div>
   )
 };

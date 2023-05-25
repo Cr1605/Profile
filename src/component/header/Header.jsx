@@ -17,7 +17,7 @@ const Header = () => {
       viewport={{ once: false, amount: 0.25 }}
       style={{boxShadow: headerShadow}}
 
-      className={`paddings ${css.wrapper}`}>
+      className={`bg-primary paddings ${css.wrapper}`}>
       <div className={`flexCenter innerWidth ${css.container}`}>
         <div className={css.name}>
           Tran Hong Ha
