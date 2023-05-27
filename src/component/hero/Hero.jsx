@@ -2,7 +2,7 @@ import React from 'react'
 import css from './Hero.module.scss'
 import { motion } from 'framer-motion'
 import { fadeIn, slideIn, staggerContainer } from '../../utils/motion'
-import Cv from './Cv.pdf'
+import Cv from './InternReactJs_TranHongHa_CV.pdf'
 
 const Hero = () => {
     return (
