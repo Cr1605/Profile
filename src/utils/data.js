@@ -4,19 +4,19 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 76,
+    projects: 4,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "Mobile App Design",
-    projects: 63,
+    projects: 2,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
     name: "Brand Identity",
-    projects: 47,
+    projects: 1,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
@@ -24,30 +24,30 @@ export const projectExperience = [
 
 export const WhatDoIHelp = [
   "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "If you need, please contact me. Let's create great things together !",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Vietnam - Korea University of Information and Communication Technology",
+    tenure: "Aug 2019 - Sep 2023",
+    role: "Fontend Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Learn the basics of front end programming. Besides focusing on basic ReactJs, learn how to create simple projects to better understand ReactJs.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Not available yet",
+    tenure: "In the future",
+    role: "Fontend Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Learn the basics of front end programming. Besides focusing on basic ReactJs, learn how to create simple projects to better understand ReactJs.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Not available yet",
+    tenure: "In the future",
+    role: "Fontend Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Learn the basics of front end programming. Besides focusing on basic ReactJs, learn how to create simple projects to better understand ReactJs.",
   },
 ];
 
