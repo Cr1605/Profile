@@ -24,7 +24,7 @@ const Portfolio = () => {
                 <div className={`flexCenter ${css.showCase}`}>
                     <a href="https://ecommercehacode.pages.dev/"><motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase1.png" alt="project" className={css.image} /></a>
                     <a href="https://fitclubhacode.pages.dev/"><motion.img variants={fadeIn("up", "tween", .7, .6)} src="./showCase2.png" alt="project" className={css.image} /></a>
-                    <a href="https://ecommercehacode.pages.dev/"><motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase1.png" alt="project" className={css.image} /></a>
+                    <a href="https://homyzhacode.pages.dev/"><motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase3.png" alt="project" className={css.image} /></a>
                 </div>
             </div>
 

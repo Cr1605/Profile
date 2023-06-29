@@ -38,16 +38,16 @@ export const workExp = [
   {
     place: "Not available yet",
     tenure: "In the future",
-    role: "Fontend Developer",
+    role: "Not available yet",
     detail:
-      "Learn the basics of front end programming. Besides focusing on basic ReactJs, learn how to create simple projects to better understand ReactJs.",
+      "In the future.",
   },
   {
     place: "Not available yet",
     tenure: "In the future",
-    role: "Fontend Developer",
+    role: "Not available yet",
     detail:
-      "Learn the basics of front end programming. Besides focusing on basic ReactJs, learn how to create simple projects to better understand ReactJs.",
+      "In the future.",
   },
 ];
 
