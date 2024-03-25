@@ -2,7 +2,7 @@ import React from 'react'
 import css from './Hero.module.scss'
 import { motion } from 'framer-motion'
 import { fadeIn, slideIn, staggerContainer } from '../../utils/motion'
-import Cv from './InternFE_TranHongHa_CV.pdf'
+import Cv from './TranHongHa_FrontEnd_CV.pdf'
 
 const Hero = () => {
     return (
@@ -51,7 +51,7 @@ const Hero = () => {
                         <a href={Cv} download>
                             <button className="button">Download CV</button>
                         </a>
-                        <span>Intern ReactJs</span>
+                        <span>Front-End Developer</span>
                     </motion.div>
                 </div>
             </motion.div>

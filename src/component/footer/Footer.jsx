@@ -29,7 +29,7 @@ const Footer = () => {
                 <div className={css.right}>
                     <div className={css.info}>
                         <span className="secondaryText">Information</span>
-                        <p>61  Nguyen Minh Chau, Hoa Hai, Da Nang</p>
+                        <p>K115/19/8, Khue Trung, Cam Le, Da Nang</p>
                     </div>
                     <ul className={css.menu}>
                         <li>Services</li>

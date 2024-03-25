@@ -4,7 +4,7 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 4,
+    projects: 7,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
@@ -31,23 +31,23 @@ export const workExp = [
   {
     place: "Vietnam - Korea University of Information and Communication Technology",
     tenure: "Aug 2019 - Sep 2023",
-    role: "Fontend Developer",
+    role: "Student",
     detail:
       "Learn the basics of front end programming. Besides focusing on basic ReactJs, learn how to create simple projects to better understand ReactJs.",
   },
   {
-    place: "Not available yet",
-    tenure: "In the future",
-    role: "Not available yet",
+    place: "Softech Corporation Company",
+    tenure: "May - July 2023",
+    role: "Intern Front-End",
     detail:
-      "In the future.",
+      " Use HTML, CSS, NextJs to build a website for the company.",
   },
   {
-    place: "Not available yet",
-    tenure: "In the future",
-    role: "Not available yet",
+    place: "Meta-Technology Company",
+    tenure: "August - November 2023",
+    role: "Front-End Developer",
     detail:
-      "In the future.",
+      "Use React, Javascript and CSS libraries like antd, MUI to do real projects.",
   },
 ];
 
